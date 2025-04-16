@@ -1,0 +1,16 @@
+Autobuild
+buildscript
+diffed
+ecma
+gitleaks
+madhead
+osv
+premajor
+preminor
+prepatch
+scorecards
+stepsecurity
+Vulns
+wontfix
+workflows
+yml
